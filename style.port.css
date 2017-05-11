@@ -1,0 +1,29 @@
+header {
+   font-family: 'Work Sans', sans-serif;
+}
+
+header h1 {
+    display: inline; 
+    margin: 0;
+    
+    
+    
+}
+
+nav ul {
+    display: inline;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    border: 2px solid black;
+    float: right;
+    padding: 1%;
+    margin: 1%;
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
